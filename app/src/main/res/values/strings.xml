@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelCounter</string>
+    <string name="accessibility_service_description">
+        ReelCounter watches Instagram Reels and YouTube Shorts scrolling so it can count
+        how many you watch each day. It only reads scroll events and view IDs on those
+        screens — it never reads messages, passwords, or sends data off your phone.
+    </string>
+    <string name="notification_channel_limit">Daily limit</string>
+    <string name="notification_channel_service">Tracking status</string>
+    <string name="limit_notification_title">Daily reel limit reached</string>
+    <string name="limit_notification_text">You\'ve hit your daily limit of %1$d reels. Take a break?</string>
+    <string name="service_disabled_title">ReelCounter tracking is off</string>
+    <string name="service_disabled_text">The accessibility service was disabled. Open the app to turn it back on.</string>
+</resources>
