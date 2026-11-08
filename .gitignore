@@ -15,3 +15,11 @@ screenshots/
 *.png
 *.jpg
 .kotlin/
+ios/**/xcuserdata/
+ios/**/*.xcuserstate
+ios/DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM

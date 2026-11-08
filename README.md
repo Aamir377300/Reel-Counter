@@ -1,5 +1,14 @@
 # ReelCounter
 
+Personal app that counts how many **Instagram Reels** and **YouTube Shorts** you scroll each day, and shows a live count while you watch.
+
+- **Android** (Kotlin) — AccessibilityService overlay (auto-detect scrolls)
+- **iPhone** (SwiftUI) — Live Activity + Back Tap / Shortcuts (see [`ios/IOS.md`](ios/IOS.md))
+
+---
+
+# Android
+
 Personal Android app that counts how many **Instagram Reels** and **YouTube Shorts** you scroll each day, and shows a live overlay while you’re in those screens.
 
 - Kotlin + Jetpack Compose (Material 3)
